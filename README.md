@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Penny Thao Pham
-- 👀 I’m interested in Financial Analyst/Data Analyst
+- 👀 I’m interested in Financial Analyst/Data Analyst/Business Intelligence Analyst
 - 🌱 I’m currently learning Python, SQL, Power BI, Tableau
-- 💞️ I’m looking to collaborate on Financial Analyst/Data Analyst jobs
+- 💞️ I’m looking to collaborate on Financial Analyst/Data Analyst/Business Intelligence Analyst jobs
 - 📫 Email: bichthaoph0410@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/thao-pham-0410/
 <!---
